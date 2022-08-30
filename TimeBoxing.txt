@@ -1,0 +1,6 @@
+Time Boxing
+
+Time Boxing is allotting a fixed,maximum unit of time for an activity. That unit of time is called a time box.Scrum is one of the methodologies where Time Boxing is used as a tool for concretely defining open-ended or ambiguous tasks(scrum inc.).It is a very simple and popular time management technique to have a handle on your schedule and improve productivity.
+Very often if not organized a long list of things to do can be overwhelming ,stressfull and lead to procrastination.Making a daily, weekly or monthly schedule in advance, factoring in time for fun activities and leisure and unforeseen circumstances can help lead a more productive and personally fullfilling life.
+
+Google calender and apps like Trello work spaces, Daylite are very popular among programmers, professionals and Agile coaches for Time Boxing.
