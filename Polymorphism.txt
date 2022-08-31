@@ -1,2 +1,3 @@
 Polymorphism is an object-oriented programming concept that refers to the ability of a variable ,function or an object to take multiple forms(Source:techopedia.com)
-In a programming language that exhibits Polymorphism,objects of classes belonging to the same heirarchy tree(inherited from a common base class)may posses functions bearing the same name but each having different behaviours
+In a programming language that exhibits Polymorphism,objects of classes belonging to the same heirarchy tree(inherited from a common base class)may posses functions bearing the same name but each having different behaviours.
+The term was originally used by evolutionary biologists to refer to the occurance of two or more clearly different forms also referred to as phenotypes in the population of a species.To be classified as such ,the phenotypes must occupy the same habitat at the same time and belong to a panmictic population(Wikipedia)
