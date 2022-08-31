@@ -1,0 +1,13 @@
+IDE
+
+
+IDE in Computer sciences means Integrated development environment.It provides an environment consolidated for the programmer to write a computer program.IDE helps in combining common activities of writing software into a single application such as editing source code,building executables and debugging. Tools provided by an IDE include a text editor, a project editor, a tool bar and an output viewer. On IDE's one can write code,compile code,debug code and monitor resources.Visual Studio,IntelliJ, Net beans and Eclipse are all examples of IDEs (Source:geeksforgeeks.org)
+
+
+PYTHON
+
+PYTHON is an interpreted,object-oriented,high-level programming language with dynamic semantics.It's easy to learn the syntax and supported by extensive standard libraries (Python.org)It incorporates modules,exceptions,dynamic typing,very high level dynamic data types and classes.It supports multiple programming paradigms beyond object oriented programming,such as proceedural and functional programming(docs.python.org). It's used to build websites,software,automation and conduct data analysis.Guido Van Rossum is the author of Python and he took the name from Monty Python movie and thought it would be unusual and intriguing.
+
+
+
+
